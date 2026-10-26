@@ -1,2 +1,7 @@
 .pylibs/
 .kiro/
+fonts/
+img/
+make_portfolio.py
+embed_font.py
+prep_images.py
